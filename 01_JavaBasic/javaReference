@@ -1,0 +1,7 @@
+> AddTwoNumbers --> pascal naming convention
+> addTwoNumber --> camel case naming convention
+> signature : name and argument collectively called signature
+
+              signature must be different to avoid compile time error
+
+String are immutable in java and arrays are mutable in java
